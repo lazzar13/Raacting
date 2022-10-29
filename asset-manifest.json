@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Raacting/static/css/main.66a4e972.css",
+    "main.js": "/Raacting/static/js/main.7f58d34c.js",
+    "static/js/787.cc511bd8.chunk.js": "/Raacting/static/js/787.cc511bd8.chunk.js",
+    "static/media/BIRTH_OF_A_HERO.ttf": "/Raacting/static/media/BIRTH_OF_A_HERO.e0f3db3672c12ea58e6e.ttf",
+    "index.html": "/Raacting/index.html",
+    "main.66a4e972.css.map": "/Raacting/static/css/main.66a4e972.css.map",
+    "main.7f58d34c.js.map": "/Raacting/static/js/main.7f58d34c.js.map",
+    "787.cc511bd8.chunk.js.map": "/Raacting/static/js/787.cc511bd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a4e972.css",
+    "static/js/main.7f58d34c.js"
+  ]
+}
