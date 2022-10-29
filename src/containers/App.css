@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BIRTH_OF_A_HERO';
+    src: url('./BIRTH_OF_A_HERO.ttf');
+}
+h4{
+    font-family: 'BIRTH_OF_A_HERO';
+    font-weight: 200;
+    color:#0ccac4
+}
