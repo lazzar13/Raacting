@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to left,rgba(7,27,81,1)0%,rgba(0,128,128,1)100%);
+  background-image: url('https://thumbs.dreamstime.com/b/basketball-ball-isolated-dark-background-blue-neon-banner-horizontal-sport-theme-poster-greeting-cards-headers-website-app-237686215.jpg');
 }
 
 code {
